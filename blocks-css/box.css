@@ -1,0 +1,40 @@
+.box{
+   background: #eae7e8;
+   height: 260px;
+}
+
+.box1{
+    position: relative;
+}
+
+.box img{
+    position: absolute;
+    right: 0;
+    top: 83px;
+}
+
+.box1-2{
+    width: 580px;
+    line-height: 30px;
+    position: absolute;
+    top: 50px;
+}
+
+.box1-2 h3{
+    color: #7a6666;
+    font-family: latoR;
+    font-size: 18px;
+}
+.box1-2 p{
+    color: #7a6666;
+    font-family: Roboto;
+    font-size: 14px;
+    
+}
+
+.box1-2 h2{
+    color: #e32a62;
+    font-family: Magra;
+    font-size: 30px;
+    margin: 10px 0;
+}

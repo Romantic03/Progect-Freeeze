@@ -1,0 +1,51 @@
+.box2 {
+	background: #c8c10d;
+	height: 160px;
+}
+
+.box2-1 {
+	position: relative;
+    height: 160px;
+}
+
+.icon {
+	position: absolute;
+    top: 25%;
+	width: 160px;
+	height: 80px;
+	display: block;
+	text-align: center;
+}
+
+.icon img {
+	height: 40px;
+}
+
+.icon h4 {
+	font-size: 20px;
+	font-weight: 400;
+	font-family: LatoR;
+	color: #ffffff;
+	margin-top: 15px;
+}
+
+.icon1 {
+	left: 0;
+}
+
+.icon2{
+    left: 28%;
+}
+
+.icon3{
+    left: 55%;
+}
+
+.icon4{
+    right: 0;
+}
+
+.icon a{
+    text-decoration: none;
+    display: block;
+}

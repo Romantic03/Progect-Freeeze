@@ -1,0 +1,110 @@
+.box5 {
+	margin: 70px 0 80px 0;
+}
+
+.box5-1 {
+	width: 65%;
+	line-height: 23px;
+}
+
+.box5-1 img {
+	width: 248px;
+}
+
+.imgheig {
+	height: 360px;
+	float: left;
+}
+
+.box5-1 h3 {
+	padding-top: 38px;
+	font-size: 25px;
+	color: #cb3362;
+	font-weight: 400;
+	font-family: 'LatoR';
+}
+
+.box5-1,
+.box5-2 p {
+	font-size: 14px;
+	color: #7a6666;
+	font-weight: 400;
+	font-family: 'Roboto';
+}
+
+.pmargin {
+	margin: 20px 0 40px 0;
+}
+
+.button {
+	width: 190px;
+	height: 45px;
+	display: inline-block;
+	color: #a5838e;
+	font-weight: 700;
+	font-family: 'LatoR';
+	border: 2px solid #a5838e;
+	text-align: center;
+	line-height: 45px;
+	text-decoration: none;
+	margin: 40px 0 40px 0;
+}
+
+.button:hover {
+	background: #a5838e;
+	color: #fff;
+}
+.button1 {
+	width: 190px;
+	height: 45px;
+	display: inline-block;
+	color: #a5838e;
+	font-weight: 700;
+	font-family: 'LatoR';
+	border: 2px solid #a5838e;
+	text-align: center;
+	line-height: 45px;
+	text-decoration: none;
+	margin: 60px 37% 40px 37%;
+}
+.button1:hover {
+	background: #a5838e;
+	color: #fff;
+}
+
+hr {
+	width: 450px;
+	color: #a5838e;
+	text-align: center;
+}
+
+.box5-2 {
+	width: 32%;
+	height: 780px;
+	float: right;
+	text-align: center;
+	background: #efedee;
+	margin-top: 38px;
+}
+
+.box5-2 h2 {
+	font-size: 35px;
+	color: #cb3362;
+	font-weight: 600;
+	font-family: 'Magra';
+	margin-top: 60px;
+}
+
+.box5-2 h3 {
+	padding-top: 20px;
+	font-size: 25px;
+	color: #cb3362;
+	font-weight: 400;
+	font-family: 'LatoR';
+}
+
+.pwids {
+	width: 200px;
+	margin: 0 auto;
+	line-height: 30px;
+}

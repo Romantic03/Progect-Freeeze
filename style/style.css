@@ -6,6 +6,8 @@
 @import '../blocks-css/footer.css';
 @import '../blocks-css/about.css';
 @import '../blocks-css/product.css';
+@import '../blocks-css/blog.css';
+@import '../blocks-css/single_post.css';
 ul,
 ol,
 h1,

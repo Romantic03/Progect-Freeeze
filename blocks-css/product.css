@@ -1,0 +1,45 @@
+.box4 {
+	width: 23%;
+	float: left;
+    padding-top: 50px;
+    margin-right: 2%;
+}
+
+.box4 h3 {
+	font-family: Magra;
+	font-size: 30px;
+	font-weight: 600;
+	color: #e32a62;
+	margin: 25px 0;
+}
+
+.box4 p {
+	font-size: 16px;
+	color: #7a6666;
+	font-weight: 400;
+	font-family: 'Roboto';
+	line-height: 30px;
+}
+
+.products {
+	width: 25%;
+	text-align: center;
+	float: left;
+    padding: 40px 0 40px 0;
+}
+
+.products h3 {
+	font-size: 20px;
+	color: #e32a62;
+	font-weight: 400;
+	font-family: 'LatoR';
+}
+
+.products img{
+    width: 240px;
+    height: 230px;
+}
+
+.foot{
+	margin-bottom: 80px;
+}
